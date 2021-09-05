@@ -35,3 +35,5 @@ root.left.left = TreeNode(9)
 root.right.left = TreeNode(10)
 root.right.right = TreeNode(5)
 print("Level order traversal: " + str(level_by_level_traversal(root)))
+# output
+# Level order traversal: [[12], [7, 1], [9, 10, 5]]
