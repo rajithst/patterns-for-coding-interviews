@@ -6,3 +6,4 @@ Interview Question solving patterns
 3. Binary Tree - Depth First Traversal Patterns
 4. Two Pointers pattern
 5. Top-K Pattern
+6. K-way Merge Pattern
