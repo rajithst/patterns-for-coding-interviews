@@ -7,3 +7,8 @@ Interview Question solving patterns
 4. Two Pointers pattern
 5. Top-K Pattern
 6. K-way Merge Pattern
+
+| Pattern  | Leetcode Links |
+| ------ | ------ |
+| Sliding Window | https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/ <br> https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/ <br> https://leetcode.com/problems/longest-substring-without-repeating-characters/ <br> https://leetcode.com/problems/minimum-size-subarray-sum/
+| K-way Merge | https://leetcode.com/problems/merge-k-sorted-lists/ <br> https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ <br> https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
