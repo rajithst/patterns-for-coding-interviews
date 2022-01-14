@@ -1,7 +1,4 @@
-"""
-Given an array of positive numbers and a positive number ‘S,’
-find the length of the smallest contiguous subarray whose sum is greater than or equal to ‘S’. Return 0 if no such subarray exists.
-"""
+# https://leetcode.com/problems/minimum-size-subarray-sum/
 import math
 
 arr = [3, 4, 1, 1, 6]

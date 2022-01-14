@@ -1,3 +1,7 @@
+# https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+# https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
+
+
 given_string = "araaci"
 window_start = 0
 max_length = 0
