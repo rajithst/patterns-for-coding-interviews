@@ -12,5 +12,5 @@ Interview Question solving patterns
 | ------ | ------ |
 | Sliding Window | https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/ <br> https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/ <br> https://leetcode.com/problems/longest-substring-without-repeating-characters/ <br> https://leetcode.com/problems/minimum-size-subarray-sum/ <br> https://leetcode.com/problems/fruit-into-baskets/ <br> https://leetcode.com/problems/longest-repeating-character-replacement/ <br> https://leetcode.com/problems/max-consecutive-ones-ii/ <br> https://leetcode.com/problems/max-consecutive-ones-iii/|
 | K-way Merge | https://leetcode.com/problems/merge-k-sorted-lists/ <br> https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ <br> https://leetcode.com/problems/find-k-pairs-with-smallest-sums/|
-| Two Pointers |https://leetcode.com/problems/3sum-closest/ <br> https://leetcode.com/problems/3sum/ <br> https://leetcode.com/problems/3sum-smaller/|
+| Two Pointers |https://leetcode.com/problems/3sum-closest/ <br> https://leetcode.com/problems/3sum/ <br> https://leetcode.com/problems/3sum-smaller/ <br> https://leetcode.com/problems/subarray-product-less-than-k/|
 | Top-K | |
