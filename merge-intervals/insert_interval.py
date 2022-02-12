@@ -32,3 +32,5 @@ class Solution:
             result.append(intervals[i])
             i += 1
         return result
+
+
