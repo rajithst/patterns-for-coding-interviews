@@ -19,4 +19,4 @@ Interview Question solving patterns
 | Merge Intervals | https://leetcode.com/problems/merge-intervals/ <br> https://leetcode.com/problems/insert-interval/ <br> https://leetcode.com/problems/interval-list-intersections/ <br> https://leetcode.com/problems/meeting-rooms/ <br> https://leetcode.com/problems/meeting-rooms-ii/|
 | Cyclic Sort | https://leetcode.com/problems/missing-number/ <br> https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ <br> https://leetcode.com/problems/find-all-duplicates-in-an-array/ <br> https://leetcode.com/problems/find-the-duplicate-number/ <br> https://leetcode.com/problems/set-mismatch/submissions/ <br> https://leetcode.com/problems/first-missing-positive/|
 | Fast & Slow pointers |https://leetcode.com/problems/linked-list-cycle/ <br> https://leetcode.com/problems/linked-list-cycle-ii/ <br> https://leetcode.com/problems/palindrome-linked-list/|
-| Subsets |https://leetcode.com/problems/subsets/ <br> https://leetcode.com/problems/subsets-ii/|
+| Subsets |https://leetcode.com/problems/subsets/ <br> https://leetcode.com/problems/subsets-ii/ <br> https://leetcode.com/problems/permutations/|
